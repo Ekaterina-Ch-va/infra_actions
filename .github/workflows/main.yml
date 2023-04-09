@@ -1,4 +1,4 @@
-name: Django-app workflow_v.1.4
+name: Django-app workflow_v.1.5
 
 on: [push]
 
